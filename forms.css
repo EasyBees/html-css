@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+.submain{
+    text-align: center;
+    background-color:lightgrey;
+    width: 400px;
+    height:auto;
+    position: absolute;
+    left: 500px;
+    
+    
+}
+.field{
+    width: 370px;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1px;
+}
+.fields{
+    width: 370px;
+    height: 100px;
+    text-align: center;
+}  
+.bttns{
+    width: 370px;
+    height: 35px;
+    background-color: green;
+    color: white;
+}
