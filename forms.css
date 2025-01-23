@@ -1,9 +1,10 @@
 body{
     background-color: green;
 }
+/* container for form */
 .submain{
-    text-align: center;
-    background-color:lightgrey;
+    padding-left:25px;
+    background-color:white;
     width: 400px;
     height:auto;
     position: absolute;
@@ -15,9 +16,9 @@ body{
     width: 370px;
     height: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1px;
+    font-size: 12px;
 }
-.fields{
+.message{
     width: 370px;
     height: 100px;
     text-align: center;
@@ -27,4 +28,5 @@ body{
     height: 35px;
     background-color: green;
     color: white;
+    border-style: none;
 }
